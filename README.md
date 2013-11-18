@@ -3,4 +3,7 @@ Dooseries
 
 XBMC Addons
 
-TEST
+TEST 
+
+Creators : iClosedz (fb.com/iClosedz)
+License  : uPlayHD licensed under GPL.
