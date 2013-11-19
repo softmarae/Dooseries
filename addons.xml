@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <addons>
 <addon id="plugin.video.dooseries"
-       name="Dooseries"
-       version="1.0.0"
-       provider-name="Softmarae">
+       name="DooSeries"
+       version="0.0.1"
+       provider-name="iClosedz, Softmarae">
   <requires>
     <import addon="xbmc.python" version="2.1.0"/>
     <import addon="script.module.xbmcswift2" version="2.4.0"/>
